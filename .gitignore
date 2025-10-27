@@ -5,3 +5,5 @@ build/
 *.exe
 *.log
 
+# VS Code settings
+.vscode/
